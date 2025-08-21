@@ -119,6 +119,61 @@ document.addEventListener('DOMContentLoaded', () => {
                     </tbody>
                 </table>
             </div>
+
+            <h3>8. Plantilla de Memoria Técnica</h3>
+            <h4>1. Portada</h4>
+            <ul>
+                <li><strong>Título de la mini-app:</strong></li>
+                <li><strong>Equipo (nombres y roles):</strong></li>
+                <li><strong>Curso y grupo:</strong></li>
+                <li><strong>Fecha de entrega:</strong></li>
+            </ul>
+            <h4>2. Objetivo didáctico</h4>
+            <ul>
+                <li>Qué conceptos explica la app (Biología y Geología: composición química de los seres vivos; Física y Química: estructura de la materia; Matemáticas: números naturales y potencias).</li>
+                <li>Para quién está pensada y qué pretende que aprenda la persona usuaria.</li>
+            </ul>
+            <h4>3. Contenido científico y matemático</h4>
+            <p>Marca lo tratado e incluye ejemplos breves:</p>
+            <ul>
+                <li>[ ] Bioelementos (CHONPS), agua, sales, macromoléculas (un ejemplo por cada una).</li>
+                <li>[ ] Átomo, molécula, elemento, compuesto, mezcla; cambios físicos y químicos (un ejemplo de cada).</li>
+                <li>[ ] Números naturales y potencias; notación científica básica; órdenes de magnitud (dos ejercicios resueltos).</li>
+            </ul>
+            <h4>4. Diseño de la app</h4>
+            <ul>
+                <li><strong>Mapa de pantallas:</strong> inicio → exploración → quiz → fin.</li>
+                <li><strong>Accesibilidad:</strong> contraste, tamaño de botones, textos claros, opción de audio o subtítulos.</li>
+                <li><strong>Recursos gráficos y sonoros usados y su licencia.</strong></li>
+            </ul>
+            <h4>5. Desarrollo técnico (Scratch/MakeCode)</h4>
+            <ul>
+                <li><strong>Variables usadas</strong> (nombres y para qué sirven).</li>
+                <li><strong>Listas usadas</strong> (banco de preguntas, respuestas y explicaciones).</li>
+                <li><strong>Eventos y flujo principal</strong> (qué sucede al iniciar, al responder y al terminar).</li>
+                <li><strong>Capturas de pantalla de bloques importantes con comentarios.</strong></li>
+            </ul>
+            <h4>6. Pruebas y mejora</h4>
+            <ul>
+                <li>Errores detectados y cómo se corrigieron.</li>
+                <li>Cambios realizados tras la prueba con otro equipo.</li>
+                <li>Resultados finales (puntuación máxima, número de preguntas, tiempo).</li>
+            </ul>
+            <h4>7. Evidencias en Moodle</h4>
+            <ul>
+                <li>Enlaces o archivos entregados: prototipo alfa, versión final, póster o vídeo.</li>
+                <li>Actas de reunión del equipo (fechas y acuerdos).</li>
+            </ul>
+            <h4>8. Licencias y bibliografía</h4>
+            <ul>
+                <li>Imágenes, iconos, sonidos y tipografías (fuente y licencia).</li>
+                <li>Páginas o libros consultados para el contenido científico y matemático.</li>
+            </ul>
+            <h4>9. Autoevaluación y coevaluación</h4>
+            <ul>
+                <li>Qué salió bien y qué mejoraríamos en otra versión.</li>
+                <li>Aportación individual de cada miembro del equipo (2-3 líneas).</li>
+            </ul>
         `
     };
 
